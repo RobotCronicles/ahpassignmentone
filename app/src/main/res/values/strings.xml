@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ahpassignmentone</string>
+    <string name="title_steps">Steps:</string>
+    <string name="button_submit">Update</string>
+    <string name="heading_today">Today:</string>
+    <string name="title_steps_today">Steps:</string>
+    <string name="default_value">0</string>
+    <string name="heading_average">Average this month:</string>
+    <string name="title_steps_average">Steps:</string>
+    <string name="privacy_policy">Lorem ipsum dolor sit amet, consectetur adipiscing elit....</string>
+</resources>
